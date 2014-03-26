@@ -1,0 +1,29 @@
+{
+  "author": {
+    "email": "vueringschristian@gmail.com",
+    "name": "Christian Vuerings",
+    "url": "http://denbuzze.com"
+  },
+  "bugs": "https://github.com/christianv/calcourses/issues",
+  "description": "Explore UC Berkeley courses",
+  "dependencies": {
+    "xml2json": "~0.4.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "keywords": [
+    "Berkeley",
+    "Courses"
+  ],
+  "license": "MIT",
+  "name": "calcourses",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christianv/calcourses.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "0.0.1"
+}
