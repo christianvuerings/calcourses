@@ -31,3 +31,7 @@
 # Env #
 #######
 .env
+
+# Downloads #
+#############
+downloads/*
